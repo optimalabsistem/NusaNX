@@ -10,6 +10,7 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20iPadOS%2026%2B-00C2FF?style=flat-square&logo=apple)](#requirements)
 [![Target](https://img.shields.io/badge/Target-Apple%20Silicon%20ARM64-8B5CF6?style=flat-square)](#highlights)
 [![Graphics](https://img.shields.io/badge/Graphics-Apple%20Metal%20%28Route%20B%29-10E89B?style=flat-square)](#highlights)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ebmF82guu)
 
 </div>
 
@@ -36,6 +37,14 @@ Game binaries run natively on Apple Silicon ARM64 while Switch graphics shaders 
 
 > **NusaNx is currently in active Beta.**  
 > Official `.ipa` builds and changelogs will be published on the **Releases** page once public beta builds open. No pre-built releases are available yet.
+
+---
+
+## Community
+
+Join the official Discord server for beta updates, game compatibility notes, and testing discussion:
+
+- **Discord:** [https://discord.gg/ebmF82guu](https://discord.gg/ebmF82guu)
 
 ---
 
