@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src=".github/nusanx-logo.png" width="136" alt="NusaNx Logo" />
+
 # NusaNx
 
 **On-device Nintendo Switch (`.nsp` / `.xci`) to native iOS / iPadOS ARM64 & Apple Metal Studio**
